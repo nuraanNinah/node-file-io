@@ -66,5 +66,5 @@ class Visitor {
 }
 
 module.exports = {
-    Visito
+    Visitor
 }
